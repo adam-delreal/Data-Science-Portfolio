@@ -2,7 +2,7 @@
 
 # Data Science Portfolio
 
-Welcome! This repository is a portfolio containing several Data Science projects showcasing:
+Welcome! This repository is a portfolio containing several Data Science projects showcasing, but not limited to:
 - Data Acquisition via API's and web Scraping.
 - Data Analysis
 - Data Visualization
@@ -24,13 +24,16 @@ Welcome! This repository is a portfolio containing several Data Science projects
 <a class="anchor" id="FM"></a>
 
 ### [Financial Modeling: Forecasting the Stock Market](https://github.com/adam-delreal/Portfolio/tree/master/Financial_Modeling)
+
 Programmed a supervised machine learning models to forecast securities using quantitative technical indicators such as historical stock prices and qualitative data (filing reports) from the United States Securities & Exchange Commission (SEC).
 
-**Tools:**
+**Tools:** [Python](https://www.python.org/) • [Jupyter Notebook/Lab](http://jupyter.org/index.html) • [Seaborn](https://seaborn.pydata.org/introduction.html) • [Matplotlib](https://matplotlib.org/) • [Numpy](http://www.numpy.org/) • [Pandas](https://pandas.pydata.org/) • [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) • [Quandle](https://www.quandl.com/) • [Scikit Learn](http://scikit-learn.org/stable/index.html#) • [Facebook Prophet](https://research.fb.com/prophet-forecasting-at-scale/)
 
-**Data Acquisition:**
+**Data Acquisition:**  [Quandle's API](https://www.quandl.com/) • [SEC Website](https://www.sec.gov/)
 
 **Exploratory Data Analysis:**
+- Data Visualization
+- [Data Engineering](https://github.com/adam-delreal/Portfolio/blob/master/Financial_Modeling/1_Predicting_Stock_Prices/1_EDA.ipynb): Simple Moving Averages (SMA), Exponential Moving Averages (EMA), Percentage Difference per Time Periods, One-Hot Encoding, and more 
 
 **Machine Learning Models:**
 
@@ -38,10 +41,10 @@ Programmed a supervised machine learning models to forecast securities using qua
 
 
 <a class="anchor" id="WNV"></a>
-### [Forecasting the West Nile Virus for the City of Chicago, Illinois & the Chicago Department of Public Health (CPHD)](https://github.com/adam-delreal/Portfolio/tree/master/Forecasting_WNV)
-Jun 2018 – Jun 2018
 
-Program a supervised model to predict when and where different species of mosquitos will test positive with the West Nile Virus. Permitting the City of Chicago and the Chicago Department of Public Health (CPHD) to efficiently and effectively allocate their resources towards the prevention of the West Nile Virus.
+### [Forecasting the West Nile Virus for the City of Chicago, Illinois & the Chicago Department of Public Health (CPHD)](https://github.com/adam-delreal/Portfolio/tree/master/Forecasting_WNV)
+
+Programmed a supervised model to predict when and where different species of mosquitos will test positive with the West Nile Virus. Permitting the City of Chicago and the Chicago Department of Public Health (CPHD) to efficiently and effectively allocate their resources towards the prevention of the West Nile Virus.
 
 **Tools:**
 
@@ -54,11 +57,10 @@ Program a supervised model to predict when and where different species of mosqui
 **Insights:**
 
 <a class="anchor" id="Politics"></a>
+
 ### [Political Classifier: Classifying Politics Based on News Titles on Reddit](https://github.com/adam-delreal/Portfolio/tree/master/Political_Classifier)
-May 2018 – May 2018
 
 Programmed a political classifier to predict whether a news headline belongs to either a European or American Political subreddit. The purpose was to create a classifier using qualitative data from subreddit headers and news-titles.
-
 
 **Tools:**
 
