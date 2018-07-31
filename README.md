@@ -23,9 +23,8 @@ Welcome! This repository is a portfolio containing several Data Science projects
 
 <a class="anchor" id="FM"></a>
 
-## [Financial Modeling: Forecasting the Stock Market](ttps://github.com/adam-delreal/Portfolio/tree/master/Financial_Modeling)
-
-**Scope:**
+## [Financial Modeling: Forecasting the Stock Market](https://github.com/adam-delreal/Portfolio/tree/master/Financial_Modeling)
+Programmed a supervised machine learning models to forecast securities using quantitative technical indicators such as historical stock prices and qualitative data (filing reports) from the United States Securities & Exchange Commission (SEC).
 
 **Tools:**
 
