@@ -35,12 +35,12 @@ Programmed a supervised machine learning models to forecast securities using qua
 
 **Exploratory Data Analysis:**
 - Data Visualization - Visualizing Trends | Visualizing Document Frequency
-- [Data Engineering](https://github.com/adam-delreal/Portfolio/blob/master/Financial_Modeling/1_Predicting_Stock_Prices/1_EDA.ipynb) - Simple Moving Averages (SMA) | Exponential Moving Averages (EMA) | Percentage Difference per Time Periods | One-Hot Encoding | Time Shifting
+- [Data Engineering](https://github.com/adam-delreal/Portfolio/blob/master/Financial_Modeling/1_Predicting_Stock_Prices/1_EDA.ipynb) - Simple Moving Averages (SMA) | Exponential Moving Averages (EMA) | Percentage Difference per Time Periods | One-Hot Encoding | Time Shifting | Data Regularization | Feature Reduction
 
 **Machine Learning Models:**
-- Linear Regression Models • Facebook Prophet | Ordinary Least Squares | Random Forest - Regressor | Bagging Regressor 
+- Linear Regression Models - Facebook Prophet | Ordinary Least Squares | Random Forest Regressor | Bagging Regressor 
 
-Classification Models • Random Forest Classifier
+- Classification Models - Random Forest Classifier
 
 **Insights:**
 After evaluating the performance of several models, Facebook's Prophet has the best results containing a small margin of error when forecasting stock prices.
