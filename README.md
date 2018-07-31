@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/C5616AQEgZnqFKt-mBw/profile-displaybackgroundimage-shrink_350_1400/0?e=1538611200&v=beta&t=hx4FuWn8hmXwI6-8AXDwfuiVbNwjqHbrsTWUJYYCrQU">
+
 # Data Science Portfolio
 
 Welcome! This repository is a portfolio containing several Data Science projects showcasing:
