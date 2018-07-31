@@ -27,7 +27,7 @@ Welcome! This repository is a portfolio containing several Data Science projects
 
 Programmed a supervised machine learning models to forecast securities using quantitative technical indicators such as historical stock prices and qualitative data (filing reports) from the United States Securities & Exchange Commission (SEC).
 
-**Tools:** 
+**Tools:**
 [Python](https://www.python.org/) • [Jupyter Notebook/Lab](http://jupyter.org/index.html) • [Seaborn](https://seaborn.pydata.org/introduction.html) • [Matplotlib](https://matplotlib.org/) • [Numpy](http://www.numpy.org/) • [Pandas](https://pandas.pydata.org/) • [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) • [Quandle](https://www.quandl.com/) • [Scikit Learn](http://scikit-learn.org/stable/index.html#) • [Facebook Prophet](https://research.fb.com/prophet-forecasting-at-scale/)
 
 **Data Acquisition:**  
@@ -43,9 +43,9 @@ Linear Regression Models • Facebook Prophet | Ordinary Least Squares | Random 
 Classification Models • Random Forest Classifier
 
 **Insights:**
-After evaluating the performance of several models, Facebook's Prophet has the best results containing a small margin of error.
+After evaluating the performance of several models, Facebook's Prophet has the best results containing a small margin of error when forecasting stock prices.
 
-Followed by the Ordinary Least Squares Linear Regression Model, which is not entirely overfit and predicts fairly well.
+Followed by the Ordinary Least Squares Linear Regression Model, which is not entirely overfit and predicts prices fairly well.
 
 Most models perform poorly and are overfit, specially those dealing a decision tree nature since, values are placed in buckets and is inefficient for sequential quantitative data.
 
