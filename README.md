@@ -12,17 +12,61 @@ Welcome! This repository is a portfolio containing several Data Science projects
 - and more!
 
 
-## Projects:
+## Table of Contents:
 
 - [Financial Modeling: Forecasting the Stock Market](#FM)
 - [Forecasting the West Nile Virus](#WNV)
 - [Political Classifier: Classifying Politics Based on News Titles on Reddit](#Politics)
 
 
+## Projects:
+
+<a class="anchor" id="FM"></a>
+
+## [Financial Modeling: Forecasting the Stock Market](ttps://github.com/adam-delreal/Portfolio/tree/master/Financial_Modeling)
+
+**Scope:**
+
+**Tools:**
+
+**Data Acquisition:**
+
+**Exploratory Data Analysis:**
+
+**Machine Learning Models:**
+
+**Insights:**
 
 
+<a class="anchor" id="WNV"></a>
+### [Forecasting the West Nile Virus for the City of Chicago, Illinois & the Chicago Department of Public Health (CPHD)](https://github.com/adam-delreal/Portfolio/tree/master/Forecasting_WNV)
+Jun 2018 – Jun 2018
+
+Program a supervised model to predict when and where different species of mosquitos will test positive with the West Nile Virus. Permitting the City of Chicago and the Chicago Department of Public Health (CPHD) to efficiently and effectively allocate their resources towards the prevention of the West Nile Virus.
+
+**Tools:**
+
+**Data Acquisition:**
+
+**Exploratory Data Analysis:**
+
+**Machine Learning Models:**
+
+**Insights:**
+
+<a class="anchor" id="Politics"></a>
+### [Political Classifier: Classifying Politics Based on News Titles on Reddit](https://github.com/adam-delreal/Portfolio/tree/master/Political_Classifier)
+May 2018 – May 2018
+
+Programmed a political classifier to predict whether a news headline belongs to either a European or American Political subreddit. The purpose was to create a classifier using qualitative data from subreddit headers and news-titles.
 
 
+**Tools:**
 
+**Data Acquisition:**
 
-<a class="anchor" id=""></a>
+**Exploratory Data Analysis:**
+
+**Machine Learning Models:**
+
+**Insights:**
