@@ -52,7 +52,7 @@ Programmed a supervised machine learning models to forecast securities using qua
 
 
 
-
+-----
 <a class="anchor" id="WNV"></a>
 
 ### [Forecasting the West Nile Virus for the City of Chicago, Illinois & the Chicago Department of Public Health (CPHD)](https://github.com/adam-delreal/Portfolio/tree/master/Forecasting_WNV)
@@ -74,6 +74,7 @@ Programmed a supervised model to predict when and where different species of mos
 
 **Insights:**
 - The Random Forest Estimator performed well by beating the baseline by 10%. Additionally, engineered features provided a signal that improved the model.
+------
 <a class="anchor" id="Politics"></a>
 
 ### [Political Classifier: Classifying Politics Based on News Titles on Reddit](https://github.com/adam-delreal/Portfolio/tree/master/Political_Classifier)
