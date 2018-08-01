@@ -27,12 +27,11 @@ Welcome! This repository is a portfolio containing several Data Science projects
 
 Programmed a supervised machine learning models to forecast securities using quantitative technical indicators (historical stock prices) and qualitative data (filing reports) from the United States Securities & Exchange Commission (SEC).
 
+**Insights:**
+- After evaluating the performance of several models, Facebook's Prophet has the best results containing a small margin of error when forecasting stock prices.
+- Followed by the Ordinary Least Squares Linear Regression Model, which is not entirely overfit and predicts prices fairly well.
+- Most models programmed performed poorly and were overfit, specially those dealing a decision-tree nature; since, values are placed in buckets and is inefficient for sequential quantitative data.
 
-**Tools:**
-- [Python](https://www.python.org/) • [Jupyter Notebook/Lab](http://jupyter.org/index.html) • [Seaborn](https://seaborn.pydata.org/introduction.html) • [Matplotlib](https://matplotlib.org/) • [Numpy](http://www.numpy.org/) • [Pandas](https://pandas.pydata.org/) • [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) • [Quandle](https://www.quandl.com/) • [Scikit Learn](http://scikit-learn.org/stable/index.html#) • [Facebook Prophet](https://research.fb.com/prophet-forecasting-at-scale/)
-
-**Data Acquisition:**  
-- [Quandle's API](https://www.quandl.com/) • [SEC Website](https://www.sec.gov/)
 
 **Exploratory Data Analysis:**
 - [Data Visualization](https://github.com/adam-delreal/Portfolio/blob/master/Financial_Modeling/1_Predicting_Stock_Prices/1_EDA.ipynb) - Visualizing Trends | Visualizing Document Frequency
@@ -42,16 +41,11 @@ Programmed a supervised machine learning models to forecast securities using qua
 - Linear Regression Models - Facebook Prophet | Ordinary Least Squares | Random Forest Regressor | Bagging Regressor 
 - Classification Models - Random Forest Classifier
 
-**Insights:**
-- After evaluating the performance of several models, Facebook's Prophet has the best results containing a small margin of error when forecasting stock prices.
-- Followed by the Ordinary Least Squares Linear Regression Model, which is not entirely overfit and predicts prices fairly well.
-- Most models programmed performed poorly and were overfit, specially those dealing a decision-tree nature; since, values are placed in buckets and is inefficient for sequential quantitative data.
+**Tools:**
+- [Python](https://www.python.org/) • [Jupyter Notebook/Lab](http://jupyter.org/index.html) • [Seaborn](https://seaborn.pydata.org/introduction.html) • [Matplotlib](https://matplotlib.org/) • [Numpy](http://www.numpy.org/) • [Pandas](https://pandas.pydata.org/) • [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) • [Quandle](https://www.quandl.com/) • [Scikit Learn](http://scikit-learn.org/stable/index.html#) • [Facebook Prophet](https://research.fb.com/prophet-forecasting-at-scale/)
 
-
-
-
-
-
+**Data Acquisition:**  
+- [Quandle's API](https://www.quandl.com/) • [SEC Website](https://www.sec.gov/)
 -----
 <a class="anchor" id="WNV"></a>
 
@@ -59,11 +53,8 @@ Programmed a supervised machine learning models to forecast securities using qua
 
 Programmed a supervised model to predict when and where different species of mosquitos will test positive with the West Nile Virus. Permitting the City of Chicago and the Chicago Department of Public Health (CPHD) to efficiently and effectively allocate their resources towards the prevention of the West Nile Virus.
 
-**Tools:**
-- [Python](https://www.python.org/) • [Jupyter Notebook/Lab](http://jupyter.org/index.html) • [Seaborn](https://seaborn.pydata.org/introduction.html) • [Matplotlib](https://matplotlib.org/) • [Numpy](http://www.numpy.org/) • [Pandas](https://pandas.pydata.org/) • [Kaggle](https://www.kaggle.com/) •  [Scikit Learn](http://scikit-learn.org/stable/index.html#)
-
-**Data Acquisition:**
-- [Kaggle Dataset](https://www.kaggle.com/c/predict-west-nile-virus/data)
+**Insights:**
+- The Random Forest Estimator performed well by beating the baseline by 10%. Additionally, engineered features provided a signal that improved the model.
 
 **Exploratory Data Analysis:**
 - Data Visualization
@@ -72,8 +63,11 @@ Programmed a supervised model to predict when and where different species of mos
 **Machine Learning Models:**
 - Random Forest Classification | Support Vector Machine Classification
 
-**Insights:**
-- The Random Forest Estimator performed well by beating the baseline by 10%. Additionally, engineered features provided a signal that improved the model.
+**Tools:**
+- [Python](https://www.python.org/) • [Jupyter Notebook/Lab](http://jupyter.org/index.html) • [Seaborn](https://seaborn.pydata.org/introduction.html) • [Matplotlib](https://matplotlib.org/) • [Numpy](http://www.numpy.org/) • [Pandas](https://pandas.pydata.org/) • [Kaggle](https://www.kaggle.com/) •  [Scikit Learn](http://scikit-learn.org/stable/index.html#)
+
+**Data Acquisition:**
+- [Kaggle Dataset](https://www.kaggle.com/c/predict-west-nile-virus/data)
 ------
 <a class="anchor" id="Politics"></a>
 
@@ -81,11 +75,8 @@ Programmed a supervised model to predict when and where different species of mos
 
 Programmed a political classifier to predict whether a news headline belongs to either a European or American Political subreddit. The purpose was to create a classifier using qualitative data from subreddit headers and news-titles.
 
-**Tools:**
-- [Python](https://www.python.org/) • [Jupyter Notebook/Lab](http://jupyter.org/index.html) • [Seaborn](https://seaborn.pydata.org/introduction.html) • [Matplotlib](https://matplotlib.org/) • [Numpy](http://www.numpy.org/) • [Pandas](https://pandas.pydata.org/) • [Reddit's API](https://www.reddit.com/dev/api/) •  [Scikit Learn](http://scikit-learn.org/stable/index.html#) • [Natural Language Toolkits](https://www.nltk.org/)
-
-**Data Acquisition:**
-- [Reddit's API](https://www.reddit.com/dev/api/)
+**Insights:**
+-   The Support Vector Machine with a Polynomial Kernel resulted in a decent model with the testing set outperforming the training set by 1%.
 
 **Exploratory Data Analysis:**
 - Data Cleansing
@@ -94,4 +85,8 @@ Programmed a political classifier to predict whether a news headline belongs to 
 **Machine Learning Models:**
 - Random Forest Classification | Support Vector Machine
 
-**Insights:**
+**Tools:**
+- [Python](https://www.python.org/) • [Jupyter Notebook/Lab](http://jupyter.org/index.html) • [Seaborn](https://seaborn.pydata.org/introduction.html) • [Matplotlib](https://matplotlib.org/) • [Numpy](http://www.numpy.org/) • [Pandas](https://pandas.pydata.org/) • [Reddit's API](https://www.reddit.com/dev/api/) •  [Scikit Learn](http://scikit-learn.org/stable/index.html#) • [Natural Language Toolkits](https://www.nltk.org/)
+
+**Data Acquisition:**
+- [Reddit's API](https://www.reddit.com/dev/api/)
