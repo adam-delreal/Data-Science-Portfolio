@@ -22,7 +22,7 @@ This project showcases an attempt to forecast securities using technical indicat
 
 
 
-The problem at hand is to forecast securities using various supervied machine learning models on historical stock data and SEC Report Filings. 
+The problem at hand is to forecast securities using various supervised machine learning models on historical stock data and SEC Report Filings. 
 
 <a class="anchor" id="Assumptions"></a>
 ## Assumptions
